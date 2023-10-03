@@ -9,6 +9,7 @@ This is a simple web-based word guessing game that allows players to guess a ran
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
+- [Contributing](#contributing)
 
 ### How to Play
 
@@ -50,10 +51,11 @@ To run the Word Guess game locally, follow these steps:
 
 You can customize the game by modifying the `script.js` file. You can change the words and hints in the `options` object at the beginning of the script to create your own word list and hints. You can also adjust the number of chances or make changes to the styling by modifying the HTML and CSS files.
 
-```javascript
+```javascript```
 const options = {
     // Add your own words and hints here
     Word: "Hint",
     // ...
 };
-
+## Contributing
+If you'd like to contribute to this project or report issues, please feel free to create a pull request or open an issue on the GitHub repository.
