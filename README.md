@@ -9,7 +9,6 @@ This is a simple web-based word guessing game that allows players to guess a ran
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Contributing](#contributing)
 
 ### How to Play
 
@@ -58,5 +57,3 @@ const options = {
     // ...
 };
 
-### Contributing
-If you'd like to contribute to this project or report issues, please feel free to create a pull request or open an issue on the GitHub repository.
